@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\HW4\HW4\HW4\Source.cpp(25,28): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\HW4\HW4\HW4\Source.cpp(26,26): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\HW4\HW4\HW4\Source.cpp(42,17): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\HW4\HW4\HW4\Source.cpp(62,29): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\HW4\HW4\HW4\Source.cpp(64,29): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\HW4\HW4\HW4\Source.cpp(66,31): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\HW4\HW4\HW4\Source.cpp(68,27): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\HW4\HW4\HW4\Source.cpp(102,15): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\HW4\HW4\HW4\Source.cpp(103,15): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\HW4\HW4\HW4\Source.cpp(104,15): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\HW4\HW4\HW4\Source.cpp(183,49): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\HW4\HW4\HW4\Source.cpp(430,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  HW4.vcxproj -> C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\HW4\HW4\x64\Debug\HW4.exe

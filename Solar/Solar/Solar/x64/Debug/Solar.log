@@ -1,0 +1,68 @@
+﻿  Solar.cpp
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(17,55): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(21,93): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(75,25): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(75,15): warning C4244: '正在初始化': 將 'double' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(77,23): warning C4305: '正在初始化': 從 'int' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(78,63): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(103,38): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(116,44): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(120,44): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(284,49): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(288,49): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(293,53): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(346,57): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(348,57): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(350,57): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(355,57): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(357,57): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(359,57): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(634,119): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(634,72): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(634,25): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(640,171): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(640,120): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(640,69): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(645,172): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(645,120): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(645,69): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(670,118): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(670,73): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(670,28): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(676,122): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(676,75): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(676,28): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(750,49): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(751,49): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(752,49): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(780,49): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(781,49): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(782,49): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(792,161): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(792,112): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(792,25): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(798,214): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(798,163): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(798,69): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(815,122): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(815,77): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(815,32): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(821,126): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(821,79): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(821,32): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(1003,23): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(1044,36): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(1071,52): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(1071,35): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(1072,29): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(1312,40): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\Solar\Solar.cpp(1324,40): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  Solar.vcxproj -> C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\Solar\Solar\x64\Debug\Solar.exe

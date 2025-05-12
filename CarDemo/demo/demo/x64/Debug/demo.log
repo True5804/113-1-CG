@@ -1,0 +1,148 @@
+﻿  Source.cpp
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(41,50): warning C4311: '類型轉換': 指標值由 'void *' 指派至 'int' 時會遭截斷
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(41,50): warning C4302: '類型轉換': 從 'void *' 轉換為 'int'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(42,48): warning C4311: '類型轉換': 指標值由 'void *' 指派至 'int' 時會遭截斷
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(42,48): warning C4302: '類型轉換': 從 'void *' 轉換為 'int'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(43,43): warning C4311: '類型轉換': 指標值由 'void *' 指派至 'int' 時會遭截斷
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(43,43): warning C4302: '類型轉換': 從 'void *' 轉換為 'int'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(61,34): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(63,32): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(63,21): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(64,37): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(64,21): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(65,37): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(65,21): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(68,34): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(70,37): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(70,21): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(71,41): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(71,26): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(72,41): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(72,26): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(81,34): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(115,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(129,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(143,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(163,46): warning C4312: '類型轉換': 將 'const int' 轉換為較大的 'void *'
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(168,50): warning C4312: '類型轉換': 將 'const int' 轉換為較大的 'void *'
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(182,50): warning C4312: '類型轉換': 將 'const int' 轉換為較大的 'void *'
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(190,29): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(191,29): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(192,29): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(193,29): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(198,29): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(199,29): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(200,29): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(201,29): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(204,34): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(206,24): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(207,24): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(208,34): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(210,24): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(211,24): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(212,24): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(218,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(218,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(219,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(219,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(220,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(220,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(221,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(221,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(225,40): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(225,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(226,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(226,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(227,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(227,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(228,40): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(228,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(232,36): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(232,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(233,42): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(233,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(234,42): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(234,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(235,42): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(235,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(236,36): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(236,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(257,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(257,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(258,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(258,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(259,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(259,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(260,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(260,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(264,40): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(264,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(265,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(265,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(266,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(266,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(267,40): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(267,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(269,34): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(271,36): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(271,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(272,42): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(272,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(273,42): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(273,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(274,42): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(274,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(275,36): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(275,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(294,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(294,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(295,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(295,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(296,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(296,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(297,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(297,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(301,40): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(301,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(302,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(302,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(303,46): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(303,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(304,40): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(304,30): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(306,34): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(308,36): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(308,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(309,42): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(309,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(310,42): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(310,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(311,42): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(311,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(312,36): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(312,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(333,34): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(337,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(343,26): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(350,26): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(358,33): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(362,34): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(368,34): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(376,34): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(384,34): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(392,34): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(408,34): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(446,53): warning C4312: '類型轉換': 將 'const int' 轉換為較大的 'void *'
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(450,57): warning C4312: '類型轉換': 將 'const int' 轉換為較大的 'void *'
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(454,44): warning C4312: '類型轉換': 將 'const int' 轉換為較大的 'void *'
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(457,49): warning C4312: '類型轉換': 將 'const int' 轉換為較大的 'void *'
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(458,53): warning C4312: '類型轉換': 將 'const int' 轉換為較大的 'void *'
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(461,53): warning C4312: '類型轉換': 將 'const int' 轉換為較大的 'void *'
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(462,53): warning C4312: '類型轉換': 將 'const int' 轉換為較大的 'void *'
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(463,54): warning C4312: '類型轉換': 將 'const int' 轉換為較大的 'void *'
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(464,54): warning C4312: '類型轉換': 將 'const int' 轉換為較大的 'void *'
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(467,53): warning C4312: '類型轉換': 將 'const int' 轉換為較大的 'void *'
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(469,53): warning C4312: '類型轉換': 將 'const int' 轉換為較大的 'void *'
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(478,44): warning C4305: '引數': 從 'double' 轉換為 'GLclampf'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\demo\Source.cpp(585,40): warning C4305: '引數': 從 'double' 轉換為 'GLclampf'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  demo.vcxproj -> C:\Users\Chu Ting\Desktop\NUTN\3-1\CG\CarDemo\demo\x64\Debug\demo.exe
